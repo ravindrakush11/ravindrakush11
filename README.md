@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **open-source NLP projects** and **knowledge graph applications**.
 - 🤔 I’m looking for help with **scaling machine learning models** and **optimizing performance for large datasets**.
 - 💬 Ask me about **NLP, Machine Learning, Deep Learning, MLOps, and building custom models from scratch**.
-- 📫 How to reach me: **datascience.ravindra@gmail.com**
+- 📫 How to reach me: **ravindrakushwaha761@gmail.com**
 - ⚡ Fun fact: **I enjoy fine-tuning LLMs, training, and building models from scratch.**
 
 ## Skills and Technologies
